@@ -2,6 +2,7 @@ package vectors;
 
 /**
  * Klasa służy do reprezentacji wektora w przestrzeni dwuwymiarowej
+ * @author Michał migas3k Migas
  */
 public class Vector2D {
     //pola
